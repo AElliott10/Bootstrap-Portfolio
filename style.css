@@ -1,0 +1,135 @@
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    }
+
+Body {
+    padding-bottom: 25px;
+
+}
+
+.row {
+    padding-top: 100px;
+}
+
+footer {
+    Position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    font-size: 10px;
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    border-top-color: #4aaaa5;
+    border-top-style: solid;
+    border-top-width: .2em;
+}
+
+/*--Box 1&2*/
+
+img {
+    height: 150px;
+    Width: 150px;
+}
+#container-box{
+    height: 150px;
+    width: 400px;
+    position: relative;
+    font-size: 20px;
+    color: white;
+}
+
+#box-1{
+    margin:0 auto;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+}
+
+#box-lable1{
+    background-color: #4aaaa5;
+    height: 30px;
+    width: 150px;
+    margin:0 auto;
+    bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    position: absolute;
+}
+
+#box-2{
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin: 0 auto;
+    position: relative;
+}
+
+#box-lable2{
+    background-color: #4aaaa5;
+    height: 30px;
+    width: 150px;
+    top: 115px;
+    padding-top: 5px;
+    text-align: center;
+    position: absolute;
+}
+
+/*--box 3 & 4*/
+#box-3{
+    margin: 0 auto;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+}
+
+#box-lable3{
+    background-color: #4aaaa5;
+    height: 30px;
+    width: 150px;
+    margin:0 auto;
+    bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    position: absolute;
+}
+#box-4{
+    float: right;
+    margin: 0 auto;
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
+
+#box-lable4{
+    background-color: #4aaaa5;
+    height: 30px;
+    width: 150px;
+    top: 115px;  
+    padding-top: 5px;
+    text-align: center;
+    position: absolute;
+}
+/*--box 5*/
+
+#box-5{
+    margin:0 auto;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+}
+
+#box-lable5{
+    background-color: #4aaaa5;
+    height: 30px;
+    width: 150px;
+    margin:0 auto;
+    bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    position: absolute;
+}
